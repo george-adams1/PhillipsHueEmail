@@ -1,5 +1,5 @@
 # PhillipsHueEmail
-A project to which turns lights on and off when an email is received!
+A project which turns lights on and off when an email is received!
 Make sure to ```pip install phue``` and create a ```variables.py``` file.
 
-Contact me on Telegram: george_adams1
+Contact me on Telegram! Username: george_adams1
